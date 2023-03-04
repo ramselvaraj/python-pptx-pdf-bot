@@ -29,4 +29,4 @@ pptx2pdf -f filename.pptx
 This tool requires LibreOffice to be installed on your system
 
 ## Acknowledgements
-I hope this simply script helps you!
+I hope this python script helps you!
