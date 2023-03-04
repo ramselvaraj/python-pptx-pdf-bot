@@ -1,6 +1,7 @@
 # PPTX to PDF Converter
 
 A command line tool for converting PPTX files to PDF files.
+I built this because I needed a way to convert my Course Slides into PDF's for easy markup and viewing
 
 ## Installation
 
