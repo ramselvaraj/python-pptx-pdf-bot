@@ -7,7 +7,7 @@ A command line tool for converting PPTX files to PDF files.
 Install using pip:
 
 ```shell
-pip install pptx-to-pdf-converter
+pip install pptx2pdf
 ```
 
 ## Usage
@@ -15,14 +15,14 @@ pip install pptx-to-pdf-converter
 To convert all PPTX files in the current directory to PDF files:
 
 ```shell
-pptx-to-pdf -a
+pptx2pdf -a
 
 ```
 
 To convert a specific PPTX file to a PDF file:
 
 ```shell
-pptx-to-pdf -f filename.pptx
+pptx2pdf -f filename.pptx
 ```
 
 ## Requirements
