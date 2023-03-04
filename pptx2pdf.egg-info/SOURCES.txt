@@ -1,0 +1,6 @@
+setup.py
+pptx2pdf.egg-info/PKG-INFO
+pptx2pdf.egg-info/SOURCES.txt
+pptx2pdf.egg-info/dependency_links.txt
+pptx2pdf.egg-info/entry_points.txt
+pptx2pdf.egg-info/top_level.txt

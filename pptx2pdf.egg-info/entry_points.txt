@@ -1,0 +1,2 @@
+[console_scripts]
+pptx2pdf = pptx2pdf.pptx2pdf:main
